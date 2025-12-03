@@ -44,7 +44,7 @@
 1. Нажмите кнопку **"Загрузить из файла"**.
 2. В списке **"Интерфейс"** выберите ваш VPN _(в моём случае, это **amnezia_PL**)_.
 3. Нажмите на иконку загрузки файла.
-4. Выберите файл `roblox-ips.txt`, скачанный из этого репозитория.
+4. Выберите файл `roblox-ips-list-list.txt`, скачанный из этого репозитория.
 5. Нажмите **"Загрузить"**.
 
    ![Загрузка](screenshots/03-upload.png)
@@ -125,4 +125,4 @@
 Поиск: [bgp.he.net — Amazon](https://bgp.he.net/search?search%5Bsearch%5D=amazon+web+services&commit=Search)
 
 ### Готовый файл
-Скачайте [`roblox-ips.txt`](roblox-ips.txt) из этого репозитория
+Скачайте [`roblox-ips-list.txt`](roblox-ips-list.txt) из этого репозитория
