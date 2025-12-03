@@ -117,7 +117,9 @@
 ## Список IP-адресов
 
 ### Roblox Corporation (AS22697)
-Актуальный список: [bgp.he.net/AS22697](https://bgp.he.net/AS22697#_prefixes)
+Актуальный список:
+* [bgp.he.net/AS22697](https://bgp.he.net/AS22697#_prefixes)
+* [iplist](https://iplist.opencck.org/ru)
 
 ### Amazon Web Services (для игровых серверов)
 Поиск: [bgp.he.net — Amazon](https://bgp.he.net/search?search%5Bsearch%5D=amazon+web+services&commit=Search)
