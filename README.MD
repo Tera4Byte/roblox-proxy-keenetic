@@ -72,6 +72,7 @@
 3. Зайдите на любой плейс.
 4. Плейс запускается без ошибок интернет-соединения.
 5. Запустите Roblox Studio.
+6. Roblox Studio запускается без ошибок.
 
 ### 3.2. Проверка маршрута
 
@@ -80,10 +81,7 @@
 **Windows:**
 `tracert roblox.com`
 
-<details>
-<summary>Пример успешного tracert</summary>
-   ![Успешный хоп](screenshots/example_windows.png)
-</details>
+![Успешный хоп](screenshots/example_windows.png)
 
 ---
 
@@ -94,10 +92,8 @@
 - Хоп 2 должен показывать адрес VPN-туннеля;
 - В маршруте должны быть зарубежные узлы (не российские).
 
-<details>
-<summary>Пример успешного traceroute</summary>
-   ![Успешный хоп](screenshots/example_linux.png)
-</details>
+Пример успешного traceroute:
+![Успешный хоп](screenshots/example_linux.png)
 
 ---
 
