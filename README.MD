@@ -106,13 +106,13 @@
 
 **Пример успешной загрузки сайта:**
 
-![Результат](screenshots/final_result1.png)
-![Результат](screenshots/final_result2.png)
+![Результат](screenshots/final_result3.png)
+![Результат](screenshots/final_result4.png)
 
 
 **Пример успешной загрузки плейса:**
-![Результат](screenshots/final_result3.png)
-![Результат](screenshots/final_result4.png)
+![Результат](screenshots/final_result1.png)
+![Результат](screenshots/final_result2.png)
 
 ### 3.2. Проверка маршрута
 
